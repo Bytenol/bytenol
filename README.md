@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bytenol&color=blueviolet)
 
-I'm a passionate software developer with a love for mathematics, physics, and chemistry. I enjoy creating games for the web and developing Android apps. Here's a bit more about what I do and the skills I bring to the table:
+I'm a passionate software developer with a love for mathematics, physics. I enjoy game development and creating complex animations with maths. Here's a bit more about what I do and the skills I bring to the table:
 
 ### Programming Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
