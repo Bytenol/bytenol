@@ -1,4 +1,11 @@
-# Hi! 👋
+# Hi! 👋 
+⠀⠀⠀⠀⠀⠀⠀⠀
+### Repositories and Contributions
+![Total Repositories](https://img.shields.io/badge/Repositories-10-informational?style=flat-square&logo=github&logoColor=white)
+![Total Stars](https://img.shields.io/badge/Stars-50-yellow?style=flat-square&logo=github&logoColor=white)
+![Total Forks](https://img.shields.io/badge/Forks-20-blue?style=flat-square&logo=github&logoColor=white)
+![Total Contributions](https://img.shields.io/badge/Contributions-1000-brightgreen?style=flat-square&logo=github&logoColor=white)
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bytenol&color=blueviolet)
 
@@ -26,6 +33,19 @@ I'm a passionate software developer with a love for mathematics, physics. I enjo
 ## 🌟 What I Do
 - **Game Development for the Web:** Using tools like Godot, SDL2, and OpenGL to create immersive and interactive web games.
 - **Android App Development:** Building robust and modern Android applications with Kotlin and Jetpack Compose.
+
+⠀⠀⠀⠀⢀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣾⣿⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⣿⣿⣿⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⡿⣿⣿⠛⢹⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢾⣿⡏⡘⢺⣽⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣷⡁⠈⣷⣿⣧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⡆⠸⢻⡿⠿⣶⡄⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⣶⠄⢠⠿⠿⠛⠂⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡄⢸⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡌⢷⡿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣽⢿⣇⡀⠀⠀⠀⠀⠀⠀⠀⠀
+
 
 ## 🎓 Interests
 - **Mathematics:** I enjoy exploring complex mathematical concepts and their applications in programming and game development.
